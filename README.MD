@@ -1,6 +1,4 @@
-# Synthetic Financial Data Generator
 
-Forked from [sarvottam-bhagat/GenAI-Ready-Data-for-Financial-Services](https://github.com/sarvottam-bhagat/GenAI-Ready-Data-for-Financial-Services).
 
 ## Project Overview
 
