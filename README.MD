@@ -1,5 +1,7 @@
 # Synthetic Financial Data Generator
 
+Forked from [sarvottam-bhagat/GenAI-Ready-Data-for-Financial-Services](https://github.com/sarvottam-bhagat/GenAI-Ready-Data-for-Financial-Services).
+
 ## Project Overview
 
 This project is a Synthetic Financial Data Generator that uses advanced machine learning techniques to create realistic, privacy-preserving financial datasets. It's designed to help financial institutions, researchers, and data scientists work with high-quality synthetic data that maintains the statistical properties of real financial data without compromising individual privacy.
@@ -95,4 +97,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [CTGAN](https://github.com/sdv-dev/CTGAN) for the synthetic data generation model
 - [Streamlit](https://streamlit.io/) for the web application framework
 - [Diffprivlib](https://github.com/IBM/differential-privacy-library) for differential privacy implementation
-
